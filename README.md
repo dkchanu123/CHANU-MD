@@ -17,8 +17,9 @@ A simple WhatsApp bot built using Node.js and the [Baileys](https://github.com/W
 📦 Installation
 
 bash
-git clone https://github.com/your-username/whatsapp-bot.git
-cd whatsapp-bot
+git clone https://github.com/dkchanu123/whatsapp-bot.git
+CHANU-MD
+whatsapp-bot
 npm install
 
 
