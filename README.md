@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=25F763&center=true&vCenter=true&width=435&lines=💬+CHANU-Md+WhatsApp+Bot+Online;🤖+Built+with+Node.js+and+Baileys;🔥+Fast+%9C+Secure+%9C+Powerful" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=25F763&center=true&vCenter=true&width=435&lines=💬+CHANU-Md+WhatsApp+Bot;🤖+Built+with+Node.js+and+Baileys;🔥+Fast+%9C+Secure+%9C+Powerful" alt="Typing SVG" />
 </h1>
 
 <p align="center">
